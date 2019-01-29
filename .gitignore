@@ -1,0 +1,13 @@
+**/Library/*
+**/Temp/*
+**/*.csproj
+**/*.unityproj
+**/*.sln
+**/*.userprefs
+**/*.pidb
+**/*.lock
+**/Assets
+**/ProjectSettings
+
+# include meta files
+!*.*.meta
